@@ -1,0 +1,15 @@
+{
+    "daily": {
+        "likes": 100,
+        "stories": 100,
+        "story_likes": 60,
+        "comment_likes": 150,
+        "accounts": 80,
+        "comments": 10
+    },
+    "hourly": {
+        "likes": 35,
+        "accounts": 10,
+        "comments": 2
+    }
+}

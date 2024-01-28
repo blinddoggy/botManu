@@ -1,0 +1,13 @@
+{   
+    "username": "one.ingot",
+    "password":"Mosk1151943884",   
+    "target": "targets_one.txt",
+    "numofposts": "3",
+    "comments": "comments.txt",
+    "viewstory": true,
+    "likestory": 1,
+    "inlast": "3d",
+    "delay": "5",
+    "likecomments": 2,
+    "nocomments": true
+}
